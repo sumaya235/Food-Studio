@@ -7,12 +7,12 @@ h1{
     text-align: center;
     color:green;
     width: 700;
-    margin-top: 30px;
+    padding-top: 20px;
 
 }
 section{
     display:flex;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .devide-area{
     width: 50%;
@@ -23,7 +23,7 @@ section{
 }
 .devide-area img{
     width:90%;
-    
+    margin-top: 10px;
     
 }
 .design{
@@ -51,7 +51,7 @@ h2{
 .My-area{
     background-image: url(images/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    height: 570px;
+    height: 580px;
 }
 .text{
     margin-top: 27px;
@@ -70,6 +70,9 @@ h2{
     margin-bottom: 60px;
     
  }
+ .adjust{
+    background-color: whitesmoke;
+ }
 .three-devide{
     width: 25%;
     height: 60%;
@@ -85,12 +88,22 @@ h2{
     margin-top: 20px;
     
 }
+.contact{
+    background-color: goldenrod;
+    margin:0px 300px ;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
 
 .footer-area{
     background-color: black;
     text-align: center;
     height: 150px;
     padding-top: 20px;
+    margin-bottom: 20px;
+    
 
 }
 .color{
